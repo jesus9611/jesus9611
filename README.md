@@ -19,7 +19,7 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [spring-dependency-injection](https://github.com/jesus9611/javaCourse) | Spring Framework IoC container and dependency injection | Java, Spring |
+| [spring-dependency-injection](https://github.com/jesus9611/) | Spring Framework IoC container and dependency injection | Java, Spring |
 
 ---
 
